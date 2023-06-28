@@ -29,7 +29,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :zap: In my free time, I practice my problem-solving skills on leetcode. I love spending my time honing my guitar skills. Reading books has been an incredibly enriching experience for me. It not only broadens my horizons and been beneficial to my mental health but also allows me to embrace diverse perspectives and develop an open mind. Writeing and journaling enables me to reflect and also better my perspectives and actions I have taken. Dancing is another one of my passions that allows me to be creative and free to express how I might be feeling at the moment.
+- :zap: In my free time, I practice my problem-solving skills on leetcode. I love spending my time honing my guitar skills. Reading books is always an incredibly enriching experience for me. It not only broadens my horizons and been beneficial to my mental health but also allows me to embrace diverse perspectives and develop an open mind. Writeing and journaling enables me to reflect and also better my perspectives and actions I have taken. Dancing is another one of my passions that allows me to be creative and free to express how I might be feeling at the moment.
 
 
 ### :hammer_and_wrench: Languages and Tools :
